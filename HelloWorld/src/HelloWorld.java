@@ -6,5 +6,7 @@ public class HelloWorld {
         System.out.println("Hello World from p2");
 
         System.out.println("Hello World from b1");
+
+        System.out.println("Hello World from b2");
     }
 }
